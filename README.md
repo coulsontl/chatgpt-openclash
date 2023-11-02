@@ -28,7 +28,7 @@
     
 降级成 http1/2 就能让域名路由规则生效了。
 
-订阅连接为 https://sub.618001.xyz/sub  接口,若担心安全问题，建议开启本地订阅，修改参数为 config=https%3A%2F%2Fraw.githubusercontent.com%2Fcoulsontl%2Fchatgpt%2Fmain%2FFull.ini 即可，也可fork本项目，自行修改
+订阅连接为 https://sub.618001.xyz/  接口,若担心安全问题，建议开启本地订阅，修改参数为 config=https%3A%2F%2Fraw.githubusercontent.com%2Fcoulsontl%2Fchatgpt%2Fmain%2FFull.ini 即可，也可fork本项目，自行修改
 
 
 tips:
